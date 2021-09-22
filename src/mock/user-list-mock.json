@@ -1,0 +1,33 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "city": "Bengaluru",
+                "total_ad_posted": 2,
+                "is_new_user": false
+
+            },
+            {
+                "id": 2,
+                "name": "priya",
+                "email": "priya@gmail.com",
+                "city": "Pune",
+                "total_ad_posted": 4,
+                "is_new_user": true
+            },
+            {
+                "id": 3,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "city": "Hyderabad",
+                "total_ad_posted": 1,
+                "is_new_user": false
+            }
+        ]
+    }
+}

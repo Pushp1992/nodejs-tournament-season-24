@@ -1,0 +1,118 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "city": {
+            "PUNE": {
+                "id": 1,
+                "name": "PUNE",
+                "data": {
+                    "product_category_list": {
+                        "bikes": {
+                            "id": 1,
+                            "motorcycle": {
+                                "id": 1,
+                                "price": "INR 1,30,000",
+                                "company": "Royale Enfield",
+                                "model": 2013
+                            },
+                            "scooters": {
+                                "id": 2,
+                                "price": "INR 3,30,000",
+                                "company": "bajaj",
+                                "model": 2018
+                            },
+                            "Bicycles": {
+                                "id": 3,
+                                "price": "INR 30,800",
+                                "company": "Atls",
+                                "model": 2020
+                            }
+                        },
+                        "furniture": {
+                            "id": 2,
+                            "sofa_dining": {
+                                "id": 1,
+                                "price": "INR 23000",
+                                "wood_type": "sheesham"
+                            },
+                            "bed_wardrobe": {
+                                "id": 2,
+                                "price": "INR 15000",
+                                "wood_type": "sheesham"
+                            }
+                        },
+                        "fitness": {
+                            "id": 3,
+                            "tredmill": {
+                                "id": 1,
+                                "price": "INR 30000",
+                                "material_type": "steel"
+                            },
+                            "cross_trainer": {
+                                "id": 1,
+                                "price": "INR 40000",
+                                "material_type": "iron"
+                            }
+                        }
+                    }
+                },
+                "BENGALURU": {
+                    "id": 1,
+                    "name": "BENGALURU",
+                    "data": {
+                        "product_category_list": {
+                            "bikes": {
+                                "id": 1,
+                                "motorcycle": {
+                                    "id": 1,
+                                    "price": "INR 1,30,000",
+                                    "company": "Royale Enfield",
+                                    "model": 2013
+                                },
+                                "scooters": {
+                                    "id": 2,
+                                    "price": "INR 3,30,000",
+                                    "company": "bajaj",
+                                    "model": 2018
+                                },
+                                "Bicycles": {
+                                    "id": 3,
+                                    "price": "INR 30,800",
+                                    "company": "Atls",
+                                    "model": 2020
+                                }
+                            },
+                            "furniture": {
+                                "id": 2,
+                                "sofa_dining": {
+                                    "id": 1,
+                                    "price": "INR 23000",
+                                    "wood_type": "sheesham"
+                                },
+                                "bed_wardrobe": {
+                                    "id": 2,
+                                    "price": "INR 15000",
+                                    "wood_type": "sheesham"
+                                }
+                            },
+                            "fitness": {
+                                "id": 3,
+                                "tredmill": {
+                                    "id": 1,
+                                    "price": "INR 30000",
+                                    "material_type": "steel"
+                                },
+                                "cross_trainer": {
+                                    "id": 1,
+                                    "price": "INR 40000",
+                                    "material_type": "iron"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
